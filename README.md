@@ -34,7 +34,7 @@
 ### 📫 More Links
 
 🌐 **Website:** [oleksandr-andrushchenko.com](https://oleksandr-andrushchenko.com)  
-💼 **LinkedIn:** [linkedin.com/in/oleksandr-andrushchenko](https://linkedin.com/in/oleksandr-andrushchenko)  
+💼 **LinkedIn:** [linkedin.com/in/oleksandr-andrushchenko-26ab3078](https://linkedin.com/in/oleksandr-andrushchenko-26ab3078)  
 🐙 **GitHub:** [github.com/oleksandr-andrushchenko](https://github.com/oleksandr-andrushchenko)  
 🏆 **HackerRank:** [hackerrank.com/profile/o_andrushchenko](https://hackerrank.com/profile/o_andrushchenko)  
 🏆 **LeetCode:** [leetcode.com/u/Oleksandr_Andrushchenko](https://leetcode.com/u/Oleksandr_Andrushchenko)  
